@@ -1,0 +1,279 @@
+
+Mon Apr 6.4.2020 11:05:52.578000: ******************************************************
+Mon Apr 6.4.2020 11:05:52.578000: * Server start in progress....                       *
+Mon Apr 6.4.2020 11:05:52.578000: *----------------------------------------------------*
+Mon Apr 6.4.2020 11:05:52.578000: *                     Please wait                    *
+Mon Apr 6.4.2020 11:05:52.578000: * (Do not end or cancel the VizGH.exe process during *
+Mon Apr 6.4.2020 11:05:52.578000: *  this time)!                                       *
+Mon Apr 6.4.2020 11:05:52.578000: *                                                    *
+Mon Apr 6.4.2020 11:05:52.581000: ******************************************************
+Mon Apr 6.4.2020 11:05:52.581000: License information:
+Mon Apr 6.4.2020 11:05:52.581000: ******************************************************
+Mon Apr 6.4.2020 11:05:52.599000: 5/4 free (five concurrent TCPIP connections)
+Mon Apr 6.4.2020 11:05:52.602000: ------------------------------------------------------
+Mon Apr 6.4.2020 11:05:52.602000: Loading GH indexes
+Mon Apr 6.4.2020 11:05:52.602000: ------------------------------------------------------
+Mon Apr 6.4.2020 11:05:52.609000: Loading TypeCollection...... 8 entries
+Mon Apr 6.4.2020 11:05:52.621000: Loading UserCollection...... 2 entries
+Mon Apr 6.4.2020 11:05:52.631000: Loading GroupCollection..... 2 entries
+Mon Apr 6.4.2020 11:05:52.640000: Loading MainIndex........... 1668 entries
+Mon Apr 6.4.2020 11:05:52.666000: Loading KeywordCollection... 0 entries
+Mon Apr 6.4.2020 11:05:52.678000: Loading ReferenceCollection. 1626 entries
+Mon Apr 6.4.2020 11:05:52.702000: Loading FolderCollection.... 42 entries
+Mon Apr 6.4.2020 11:05:52.720000: Loading LevelCollection..... 1 entries
+Mon Apr 6.4.2020 11:05:52.735000: Loading UnitAttributeColl... 1626 entries
+Mon Apr 6.4.2020 11:05:52.765000: Loading Type (47) Index..... 10 entries
+Mon Apr 6.4.2020 11:05:52.778000: Loading Type (48) Index..... 47 entries
+Mon Apr 6.4.2020 11:05:52.792000: Loading Type (49) Index..... 1543 entries
+Mon Apr 6.4.2020 11:05:52.813000: Loading Type (50) Index..... 3 entries
+Mon Apr 6.4.2020 11:05:52.826000: Loading Type (51) Index..... 15 entries
+Mon Apr 6.4.2020 11:05:52.838000: Loading Type (148) Index.... 8 entries
+Mon Apr 6.4.2020 11:05:52.850000: Loading FileObjectCollection 6 entries
+Mon Apr 6.4.2020 11:05:52.862000: ******************************************************
+Mon Apr 6.4.2020 11:05:52.862000: Creating/loading advanced indexes
+Mon Apr 6.4.2020 11:05:52.862000: ******************************************************
+Mon Apr 6.4.2020 11:05:52.865000: Location:
+Mon Apr 6.4.2020 11:05:52.867000: E:\VizGHData\TestGit\testZIV\\VizDbUnitIndex\
+Mon Apr 6.4.2020 11:05:52.867000: ------------------------------------------------------
+Mon Apr 6.4.2020 11:05:52.870000: IconSmall 1626 entries
+Mon Apr 6.4.2020 11:05:52.891000: ------------------------------------------------------
+Mon Apr 6.4.2020 11:05:52.891000: Software information:
+Mon Apr 6.4.2020 11:05:52.891000: ------------------------------------------------------
+Mon Apr 6.4.2020 11:05:52.894000: Viz Graphic Hub version 3.3.0.84343 
+Mon Apr 6.4.2020 11:05:52.898000: (Made in Austria)
+Mon Apr 6.4.2020 11:05:52.900000: ******************************************************
+Mon Apr 6.4.2020 11:05:52.900000: Data location:
+Mon Apr 6.4.2020 11:05:52.900000: ******************************************************
+Mon Apr 6.4.2020 11:05:52.903000: E:\VizGHData\TestGit\testZIV\
+Mon Apr 6.4.2020 11:05:52.906000: ******************************************************
+Mon Apr 6.4.2020 11:05:52.906000: Max. open files in total:
+Mon Apr 6.4.2020 11:05:52.906000: ******************************************************
+Mon Apr 6.4.2020 11:05:52.909000: 2048
+Mon Apr 6.4.2020 11:05:52.913000: ******************************************************
+Mon Apr 6.4.2020 11:05:52.913000: Max. open files per session:
+Mon Apr 6.4.2020 11:05:52.913000: ******************************************************
+Mon Apr 6.4.2020 11:05:52.916000: 16
+Mon Apr 6.4.2020 11:05:52.919000: ******************************************************
+Mon Apr 6.4.2020 11:05:52.919000: Starting HQL-DB-Engine
+Mon Apr 6.4.2020 11:05:52.919000: ******************************************************
+Mon Apr 6.4.2020 11:05:52.923000: Tablespace location:
+Mon Apr 6.4.2020 11:05:52.923000: ------------------------------------------------------
+Mon Apr 6.4.2020 11:05:52.926000: E:\VizGHData\TestGit\testZIV\VizDbTables
+Mon Apr 6.4.2020 11:05:52.930000: ******************************************************
+Mon Apr 6.4.2020 11:05:52.930000: Loading HQL indexes...:
+Mon Apr 6.4.2020 11:05:52.930000: ******************************************************
+Mon Apr 6.4.2020 11:05:52.945000: Loading.....: Database Fields: 284
+Mon Apr 6.4.2020 11:05:52.957000: Loading.....: Database Tables: 44
+Mon Apr 6.4.2020 11:05:52.961000: Building....: Database Name-Index: 0
+Mon Apr 6.4.2020 11:05:52.964000: Building....: Database   RI-Index: 284
+Mon Apr 6.4.2020 11:05:52.973000: Building....: Extended   DB-Index: 0
+Mon Apr 6.4.2020 11:05:52.982000: Loading Data: output_channels: 0
+Mon Apr 6.4.2020 11:05:52.990000: Loading Data: script_units: 0
+Mon Apr 6.4.2020 11:05:53.002000: Loading Data: seq_category_id: 6
+Mon Apr 6.4.2020 11:05:53.016000: Loading Data: sys_Scheduler_Task: 14
+Mon Apr 6.4.2020 11:05:53.029000: Loading Data: variants: 34
+Mon Apr 6.4.2020 11:05:53.038000: ERROR: Buffer size mismatch detected, data file overflow (6222>6180, CVIndexFile::LoadIndexMap:299)
+Mon Apr 6.4.2020 11:05:53.042000: ERROR: Buffer size mismatch detected, data file overflow (6222>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.047000: ERROR: Buffer size mismatch detected, data file overflow (6260>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.050000: ERROR: Buffer size mismatch detected, data file overflow (6296>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.054000: ERROR: Buffer size mismatch detected, data file overflow (6656>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.058000: ERROR: Buffer size mismatch detected, data file overflow (6696>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.062000: ERROR: Buffer size mismatch detected, data file overflow (6748>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.066000: ERROR: Buffer size mismatch detected, data file overflow (6786>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.070000: ERROR: Buffer size mismatch detected, data file overflow (6822>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.074000: ERROR: Buffer size mismatch detected, data file overflow (7182>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.078000: ERROR: Buffer size mismatch detected, data file overflow (7222>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.082000: ERROR: Buffer size mismatch detected, data file overflow (7274>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.086000: ERROR: Buffer size mismatch detected, data file overflow (7312>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.089000: ERROR: Buffer size mismatch detected, data file overflow (7348>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.093000: ERROR: Buffer size mismatch detected, data file overflow (7708>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.097000: ERROR: Buffer size mismatch detected, data file overflow (7748>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.101000: ERROR: Buffer size mismatch detected, data file overflow (7800>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.104000: ERROR: Buffer size mismatch detected, data file overflow (7838>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.108000: ERROR: Buffer size mismatch detected, data file overflow (7874>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.112000: ERROR: Buffer size mismatch detected, data file overflow (8234>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.116000: ERROR: Buffer size mismatch detected, data file overflow (8274>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.119000: ERROR: Buffer size mismatch detected, data file overflow (8326>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.123000: ERROR: Buffer size mismatch detected, data file overflow (8364>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.127000: ERROR: Buffer size mismatch detected, data file overflow (8400>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.131000: ERROR: Buffer size mismatch detected, data file overflow (8593>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.135000: ERROR: Buffer size mismatch detected, data file overflow (8633>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.138000: ERROR: Buffer size mismatch detected, data file overflow (8685>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.142000: ERROR: Buffer size mismatch detected, data file overflow (8723>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.146000: ERROR: Buffer size mismatch detected, data file overflow (8759>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.149000: ERROR: Buffer size mismatch detected, data file overflow (9099>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.153000: ERROR: Buffer size mismatch detected, data file overflow (9139>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.157000: ERROR: Buffer size mismatch detected, data file overflow (9191>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.161000: ERROR: Buffer size mismatch detected, data file overflow (9229>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.165000: ERROR: Buffer size mismatch detected, data file overflow (9265>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.168000: ERROR: Buffer size mismatch detected, data file overflow (9609>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.172000: ERROR: Buffer size mismatch detected, data file overflow (9649>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.176000: ERROR: Buffer size mismatch detected, data file overflow (9701>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.180000: ERROR: Buffer size mismatch detected, data file overflow (9739>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.184000: ERROR: Buffer size mismatch detected, data file overflow (9775>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.188000: ERROR: Buffer size mismatch detected, data file overflow (10119>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.193000: ERROR: Buffer size mismatch detected, data file overflow (10159>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.197000: ERROR: Buffer size mismatch detected, data file overflow (10211>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.201000: ERROR: Buffer size mismatch detected, data file overflow (10249>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.205000: ERROR: Buffer size mismatch detected, data file overflow (10285>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.209000: ERROR: Buffer size mismatch detected, data file overflow (10629>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.213000: ERROR: Buffer size mismatch detected, data file overflow (10669>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.217000: ERROR: Buffer size mismatch detected, data file overflow (10721>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.220000: ERROR: Buffer size mismatch detected, data file overflow (10759>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.224000: ERROR: Buffer size mismatch detected, data file overflow (10795>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.229000: ERROR: Buffer size mismatch detected, data file overflow (10988>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.233000: ERROR: Buffer size mismatch detected, data file overflow (11028>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.237000: ERROR: Buffer size mismatch detected, data file overflow (11080>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.241000: ERROR: Buffer size mismatch detected, data file overflow (11118>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.245000: ERROR: Buffer size mismatch detected, data file overflow (11154>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.249000: ERROR: Buffer size mismatch detected, data file overflow (11498>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.254000: ERROR: Buffer size mismatch detected, data file overflow (11538>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.258000: ERROR: Buffer size mismatch detected, data file overflow (11590>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.262000: ERROR: Buffer size mismatch detected, data file overflow (11628>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.267000: ERROR: Buffer size mismatch detected, data file overflow (11664>=6180, CVIndexFile::LoadIndexMap:294)
+Mon Apr 6.4.2020 11:05:53.274000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.279000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.283000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.287000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.291000: ERROR: Data error detected (error:-10, row:0471C83E-0000-A700-EB8A-5E91C6D27265, field:CE57AE74-D0A5-5B52-3947-A68E4D9CEE81, 525:346, CVDBTableData::LoadTableData:14247)
+Mon Apr 6.4.2020 11:05:53.295000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.299000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.303000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.307000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.312000: ERROR: Data error detected (error:-10, row:04BB1980-0000-1F00-EC8A-5E91C6D27265, field:1057AE74-6173-ACBF-C04A-EEABF0E9BCB3, 1037:359, CVDBTableData::LoadTableData:14247)
+Mon Apr 6.4.2020 11:05:53.316000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.320000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.325000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.329000: ERROR: Data error detected (error:-10, row:E3B34DB0-F932-7464-AE57-47628C578D23, field:6F697461-3A6E-6E0A-2F61-E530FD78911F, 1526:36, CVDBTableData::LoadTableData:14247)
+Mon Apr 6.4.2020 11:05:53.333000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.337000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.342000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.346000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.350000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.354000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.358000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.363000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.367000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.371000: ERROR: Data error detected (error:-10, row:0010B892-0000-0000-0000-000000000000, field:E19B0A88-4AF0-BD56-4C73-9B952F98836E, 2614:360, CVDBTableData::LoadTableData:14247)
+Mon Apr 6.4.2020 11:05:53.376000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.381000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.385000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.390000: ERROR: Data error detected (error:-10, row:93714C88-60B3-0A88-DBA1-A1AA12514486, field:00000004-EE00-5E8A-91C6-D27265A6FF4E, 3104:36, CVDBTableData::LoadTableData:14247)
+Mon Apr 6.4.2020 11:05:53.395000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.399000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.405000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.410000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.414000: ERROR: Data error detected (error:-10, row:70B91A4C-99CE-EA4F-9605-100000000000, field:4C884EFF-9371-60B3-880A-FED48E9D7D3F, 3630:36, CVDBTableData::LoadTableData:14247)
+Mon Apr 6.4.2020 11:05:53.418000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.423000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.427000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.432000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.436000: ERROR: Data error detected (error:-10, row:00000000-0000-0000-0000-000000000000, field:A841CA0A-079A-8808-241C-DAB710000000, 4156:36, CVDBTableData::LoadTableData:14247)
+Mon Apr 6.4.2020 11:05:53.440000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.446000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.450000: ERROR: Data error detected (error:-10, row:78FD30E5-1F91-4DB0-B3E3-32F96474AE57, field:6F666E69-6D72-7461-696F-6E3A0A6E2F61, 4592:52, CVDBTableData::LoadTableData:14247)
+Mon Apr 6.4.2020 11:05:53.456000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.461000: ERROR: Data error detected (error:-10, row:0BF30000-E85D-7DF3-A64A-88D7225BB201, field:00000000-0000-0000-0000-000000000000, 4682:36, CVDBTableData::LoadTableData:14247)
+Mon Apr 6.4.2020 11:05:53.465000: ERROR: Data error detected (error:-10, row:00000000-36C1-C809-24BC-F64790980995, field:E9D2FA0A-2C4F-F88B-75F9-D84B9F120200, 4718:360, CVDBTableData::LoadTableData:14247)
+Mon Apr 6.4.2020 11:05:53.470000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.475000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.480000: ERROR: Data error detected (error:-10, row:08861765-B030-0010-0000-000000000000, field:60B39371-0A88-F429-77B7-26514608A394, 5170:38, CVDBTableData::LoadTableData:14247)
+Mon Apr 6.4.2020 11:05:53.485000: ERROR: Data error detected (error:-10, row:8C4B01B2-F429-B777-2651-4608A3946517, field:00000000-0BF3-E85D-F37D-A64A88D7225B, 5208:36, CVDBTableData::LoadTableData:14247)
+Mon Apr 6.4.2020 11:05:53.490000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.495000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.499000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.503000: ERROR: Data error detected (error:-10, row:FDABB3F6-C2BA-7DEC-8E10-000000000000, field:714C884E-B393-8860-0A8B-DE642525DA41, 5696:38, CVDBTableData::LoadTableData:14247)
+Mon Apr 6.4.2020 11:05:53.508000: ERROR: Data error detected (error:-10, row:B25B22D7-4B01-8B8C-DE64-2525DA41F6B3, field:00000000-0000-F300-0B5D-E8F37DA64A88, 5734:36, CVDBTableData::LoadTableData:14247)
+Mon Apr 6.4.2020 11:05:53.513000: ERROR: Data error detected (error:-10, row:09989047-1295-0C33-B38B-DE642525DA41, field:028E7DEC-0000-0000-00C1-3609C824BCF6, 5770:360, CVDBTableData::LoadTableData:14247)
+Mon Apr 6.4.2020 11:05:53.517000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.522000: Loading Data: sys_Journal: 115
+Mon Apr 6.4.2020 11:05:53.535000: Loading Data: seq_mse_playlist_id: 6
+Mon Apr 6.4.2020 11:05:53.548000: Loading Data: seq_control_scene_id: 6
+Mon Apr 6.4.2020 11:05:53.563000: Loading Data: seq_changelog_id: 6
+Mon Apr 6.4.2020 11:05:53.572000: Loading Data: template_control_scenes: 0
+Mon Apr 6.4.2020 11:05:53.583000: Loading Data: sys_AddOn_Template: 0
+Mon Apr 6.4.2020 11:05:53.593000: Loading Data: sys_AddOn: 0
+Mon Apr 6.4.2020 11:05:53.606000: Loading Data: concepts: 11
+Mon Apr 6.4.2020 11:05:53.616000: Loading Data: sys_Scheduler_Exception: 0
+Mon Apr 6.4.2020 11:05:53.625000: Loading Data: sys_Import_History: 0
+Mon Apr 6.4.2020 11:05:53.638000: Loading Data: seq_element_id: 6
+Mon Apr 6.4.2020 11:05:53.651000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.655000: ERROR: Buffer size mismatch detected (CVDBTableData::LoadTableData:14251)
+Mon Apr 6.4.2020 11:05:53.661000: Loading Data: viz_UserSettings: 395
+Mon Apr 6.4.2020 11:05:53.673000: Loading Data: sys_Alert: 156
+Mon Apr 6.4.2020 11:05:53.687000: Loading Data: template_concepts: 14
+Mon Apr 6.4.2020 11:05:53.700000: Loading Data: templates: 52
+Mon Apr 6.4.2020 11:05:53.712000: Loading Data: tags: 0
+Mon Apr 6.4.2020 11:05:53.724000: Loading Data: tag_templates: 0
+Mon Apr 6.4.2020 11:05:53.739000: Loading Data: template_scripts: 0
+Mon Apr 6.4.2020 11:05:53.754000: Loading Data: seq_pre_authenticated_host_id: 6
+Mon Apr 6.4.2020 11:05:53.765000: Loading Data: categories: 0
+Mon Apr 6.4.2020 11:05:53.774000: Loading Data: control_scenes: 0
+Mon Apr 6.4.2020 11:05:53.784000: Loading Data: variant_control_scenes: 0
+Mon Apr 6.4.2020 11:05:53.796000: Loading Data: pre_authenticated_hosts: 0
+Mon Apr 6.4.2020 11:05:53.807000: Loading Data: template_updatescript_commands: 0
+Mon Apr 6.4.2020 11:05:53.821000: Loading Data: seq_tag_id: 6
+Mon Apr 6.4.2020 11:05:53.833000: Loading Data: sys_Application: 18
+Mon Apr 6.4.2020 11:05:53.844000: Loading Data: seq_search_provider_id: 6
+Mon Apr 6.4.2020 11:05:53.855000: Loading Data: search_providers: 0
+Mon Apr 6.4.2020 11:05:53.867000: Loading Data: seq_variant_id: 6
+Mon Apr 6.4.2020 11:05:53.879000: Loading Data: seq_output_channel_id: 6
+Mon Apr 6.4.2020 11:05:53.893000: Loading Data: vcp_parameters: 244
+Mon Apr 6.4.2020 11:05:53.903000: Loading Data: elements: 0
+Mon Apr 6.4.2020 11:05:53.914000: Loading Data: element_thumbnails: 0
+Mon Apr 6.4.2020 11:05:53.923000: Loading Data: mse_playlists_xml: 0
+Mon Apr 6.4.2020 11:05:53.933000: Loading Data: sys_AddOn_Template_GroupInfo: 0
+Mon Apr 6.4.2020 11:05:53.942000: Loading Data: changelog: 0
+Mon Apr 6.4.2020 11:05:53.954000: Loading Data: seq_concept_id: 6
+Mon Apr 6.4.2020 11:05:53.964000: Loading Data: viz_VRStudio_Setup: 0
+Mon Apr 6.4.2020 11:05:53.977000: Loading Data: seq_template_id: 6
+Mon Apr 6.4.2020 11:05:53.981000: ******************************************************
+Mon Apr 6.4.2020 11:05:53.981000: Building System-, Pilot- and Standard-Tables
+Mon Apr 6.4.2020 11:05:53.981000: ******************************************************
+Mon Apr 6.4.2020 11:05:54.002000: Loading.....: System RIs: 0
+Mon Apr 6.4.2020 11:05:54.006000: ******************************************************
+Mon Apr 6.4.2020 11:05:54.006000: Building virtual file and folder tables:
+Mon Apr 6.4.2020 11:05:54.006000: ******************************************************
+Mon Apr 6.4.2020 11:05:54.011000: Done!
+Mon Apr 6.4.2020 11:05:54.030000: ******************************************************
+Mon Apr 6.4.2020 11:05:54.030000: Advanced server configuration:
+Mon Apr 6.4.2020 11:05:54.030000: ******************************************************
+Mon Apr 6.4.2020 11:05:54.035000: Server to Client timeout : (Standard) : 2
+Mon Apr 6.4.2020 11:05:54.039000: Server to Server timeout : (Standard) : Ignored
+Mon Apr 6.4.2020 11:05:54.044000: IIOP-Listen-Endpoint     : (Modified) : 19397: 0
+Mon Apr 6.4.2020 11:05:54.049000: Server logging level     : (Standard) : Errors and warnings
+Mon Apr 6.4.2020 11:05:54.053000: Show console window      : (Modified) : Enabled
+Mon Apr 6.4.2020 11:05:54.057000: Log server state         : (Modified) : Enabled
+Mon Apr 6.4.2020 11:05:54.062000: ******************************************************
+Mon Apr 6.4.2020 11:05:54.062000: Connectivity settings:
+Mon Apr 6.4.2020 11:05:54.062000: ******************************************************
+Mon Apr 6.4.2020 11:05:54.066000: Hostname:
+Mon Apr 6.4.2020 11:05:54.066000: ------------------------------------------------------
+Mon Apr 6.4.2020 11:05:54.070000: swt-n3126
+Mon Apr 6.4.2020 11:05:54.075000: ------------------------------------------------------
+Mon Apr 6.4.2020 11:05:54.075000: Servername:
+Mon Apr 6.4.2020 11:05:54.075000: ------------------------------------------------------
+Mon Apr 6.4.2020 11:05:54.081000: TestGIT
+Mon Apr 6.4.2020 11:05:54.085000: ------------------------------------------------------
+Mon Apr 6.4.2020 11:05:54.086000: Namingservice location:
+Mon Apr 6.4.2020 11:05:54.086000: ------------------------------------------------------
+Mon Apr 6.4.2020 11:05:54.091000: Localhost
+Mon Apr 6.4.2020 11:05:54.097000: ------------------------------------------------------
+Mon Apr 6.4.2020 11:05:54.097000: Namingservice Port:
+Mon Apr 6.4.2020 11:05:54.097000: ------------------------------------------------------
+Mon Apr 6.4.2020 11:05:54.101000: 19396
+Mon Apr 6.4.2020 11:05:54.105000: ------------------------------------------------------
+Mon Apr 6.4.2020 11:05:54.105000: Network interface/mapping:
+Mon Apr 6.4.2020 11:05:54.105000: ------------------------------------------------------
+Mon Apr 6.4.2020 11:05:54.109000: Determined automatically
+Mon Apr 6.4.2020 11:05:54.135000: ******************************************************
+Mon Apr 6.4.2020 11:05:54.135000: *                                                    *
+Mon Apr 6.4.2020 11:05:54.135000: *            Server start was successful             *
+Mon Apr 6.4.2020 11:05:54.135000: *                                                    *
+Mon Apr 6.4.2020 11:05:54.135000: ******************************************************
+Mon Apr 6.4.2020 11:05:59.032000: [0]-
+Mon Apr 6.4.2020 11:05:59.037000: [0]-[1.OSM(0)-TOM(0)-OJM(0)/CJM(0)]-[2.1.2]-[3]-[4]-[5]-[6.2]-[7]-[8]-[9]-[10]-[11]-[OK] TC(163) TCC(0) HQL(9/7/0/1/0/0/0) TS(0/0) TF(0/0/0)
+Mon Apr 6.4.2020 11:06:59.169000: [0]-[1.OSM(0)-TOM(0)-OJM(0)/CJM(0)]-[2.1.2]-[3]-[4]-[5]-[6.1.2]-[7]-[8]-[9]-[10]-[11]-[OK] TC(1181) TCC(0) HQL(180/178/0/1/0/0/0) TS(0/0) TF(0/0/0)
+Mon Apr 6.4.2020 11:07:59.305000: [0]-[1.OSM(0)-TOM(0)-OJM(0)/CJM(0)]-[2.1.2]-[3]-[4]-[5]-[6.1.2]-[7]-[8]-[9]-[10]-[11]-[OK] TC(1412) TCC(0) HQL(181/179/0/1/0/0/0) TS(0/0) TF(0/0/0)
+Mon Apr 6.4.2020 11:08:59.432000: [0]-[1.OSM(0)-TOM(0)-OJM(0)/CJM(0)]-[2.1.2]-[3]-[4]-[5]-[6.1.2]-[7]-[8]-[9]-[10]-[11]-[OK] TC(1553) TCC(0) HQL(183/181/0/1/0/0/0) TS(0/0) TF(0/0/0)
+Mon Apr 6.4.2020 11:09:59.560000: [0]-[1.OSM(0)-TOM(0)-OJM(0)/CJM(0)]-[2.1.2]-[3]-[4]-[5]-[6.1.2]-[7]-[8]-[9]-[10]-[11]-[OK] TC(2718) TCC(1) HQL(193/188/1/3/0/0/0) TS(0/0) TF(18/15/3)
